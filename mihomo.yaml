@@ -35,24 +35,24 @@ proxies:
   - {name: "📢 https://t.me/irnova", server: 192.0.2.1, port: 443, type: vmess, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, alterId: 0, cipher: auto, tls: true, servername: "lunar-finch-f1d7-70f08909.pages.dev", network: ws, ws-opts: {path: "/?fake=1", headers: {Host: "lunar-finch-f1d7-70f08909.pages.dev"}}, udp: false}
   - {name: "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01", server: 192.0.2.1, port: 443, type: vmess, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, alterId: 0, cipher: auto, tls: true, servername: "lunar-finch-f1d7-70f08909.pages.dev", network: ws, ws-opts: {path: "/?fake=1", headers: {Host: "lunar-finch-f1d7-70f08909.pages.dev"}}, udp: false}
   - {name: "سرویس رایگان نوا @irnova lunar-finch-f1d7-70f08909.pages.dev:443 [VLESS]", server: lunar-finch-f1d7-70f08909.pages.dev, port: 443, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 104.16.253.144:2087 [VLESS]", server: 104.16.253.144, port: 2087, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 104.19.42.247:2087 [VLESS]", server: 104.19.42.247, port: 2087, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.149.45:8443 [VLESS]", server: 104.17.149.45, port: 8443, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 104.19.168.174:443 [VLESS]", server: 104.19.168.174, port: 443, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 172.66.129.243:8443 [VLESS]", server: 172.66.129.243, port: 8443, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 104.19.148.181:2083 [VLESS]", server: 104.19.148.181, port: 2083, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.218.88:2083 [VLESS]", server: 104.17.218.88, port: 2083, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 8.39.125.128:2096 [VLESS]", server: 8.39.125.128, port: 2096, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 162.159.236.4:2096 [VLESS]", server: 162.159.236.4, port: 2096, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.140.2:8443 [VLESS]", server: 104.17.140.2, port: 8443, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.132.141:2083 [VLESS]", server: 104.17.132.141, port: 2083, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 162.159.38.189:443 [VLESS]", server: 162.159.38.189, port: 443, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 172.64.83.210:2083 [VLESS]", server: 172.64.83.210, port: 2083, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 172.67.251.218:2096 [VLESS]", server: 172.67.251.218, port: 2096, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 104.19.57.159:443 [VLESS]", server: 104.19.57.159, port: 443, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.187.40:2087 [VLESS]", server: 104.17.187.40, port: 2087, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]", server: 104.18.1.1, port: 2053, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 172.67.154.117:2083 [VLESS]", server: 172.67.154.117, port: 2083, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.132.67:2083 [VLESS]", server: 104.17.132.67, port: 2083, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 104.19.168.208:2053 [VLESS]", server: 104.19.168.208, port: 2053, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 141.101.113.161:443 [VLESS]", server: 141.101.113.161, port: 443, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 104.19.58.131:443 [VLESS]", server: 104.19.58.131, port: 443, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 188.164.248.19:2096 [VLESS]", server: 188.164.248.19, port: 2096, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.151.30:2083 [VLESS]", server: 104.17.151.30, port: 2083, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 104.18.41.54:8443 [VLESS]", server: 104.18.41.54, port: 8443, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 162.159.148.178:2083 [VLESS]", server: 162.159.148.178, port: 2083, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 172.66.214.159:2087 [VLESS]", server: 172.66.214.159, port: 2087, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 172.64.154.45:2096 [VLESS]", server: 172.64.154.45, port: 2096, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 104.19.46.217:2096 [VLESS]", server: 104.19.46.217, port: 2096, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 172.64.151.235:2053 [VLESS]", server: 172.64.151.235, port: 2053, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 172.66.214.202:8443 [VLESS]", server: 172.66.214.202, port: 8443, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.127.110:2083 [VLESS]", server: 104.17.127.110, port: 2083, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 162.159.32.56:8443 [VLESS]", server: 162.159.32.56, port: 8443, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
   - {name: "سرویس رایگان نوا @irnova 104.18.0.0:443 [VLESS]", server: 104.18.0.0, port: 443, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]", server: 104.18.1.1, port: 2053, type: vless, uuid: 40c10d53-d563-4f5f-832d-1c270c8f76e7, tls: true, skip-cert-verify: false, servername: lunar-finch-f1d7-70f08909.pages.dev, client-fingerprint: unsafe, network: ws, ws-opts: {path: /ebb2b87b56b7/proxyip=198.199.84.192, headers: {Host: lunar-finch-f1d7-70f08909.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -64,24 +64,24 @@ proxy-groups:
       - 🔮 负载均衡
       - DIRECT
       - سرویس رایگان نوا @irnova lunar-finch-f1d7-70f08909.pages.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.253.144:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.42.247:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.149.45:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.168.174:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.129.243:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.148.181:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.218.88:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 8.39.125.128:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.236.4:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.140.2:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.132.141:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.189:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.83.210:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 172.67.251.218:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.57.159:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.187.40:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.154.117:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.132.67:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.168.208:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 141.101.113.161:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.58.131:443 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.19:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.151.30:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.41.54:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.148.178:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.214.159:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 172.64.154.45:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.46.217:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 172.64.151.235:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.214.202:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.127.110:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.32.56:8443 [VLESS]
       - سرویس رایگان نوا @irnova 104.18.0.0:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -89,48 +89,48 @@ proxy-groups:
     tolerance: 50
     proxies:
       - سرویس رایگان نوا @irnova lunar-finch-f1d7-70f08909.pages.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.253.144:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.42.247:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.149.45:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.168.174:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.129.243:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.148.181:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.218.88:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 8.39.125.128:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.236.4:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.140.2:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.132.141:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.189:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.83.210:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 172.67.251.218:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.57.159:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.187.40:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.154.117:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.132.67:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.168.208:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 141.101.113.161:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.58.131:443 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.19:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.151.30:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.41.54:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.148.178:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.214.159:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 172.64.154.45:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.46.217:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 172.64.151.235:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.214.202:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.127.110:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.32.56:8443 [VLESS]
       - سرویس رایگان نوا @irnova 104.18.0.0:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
       - سرویس رایگان نوا @irnova lunar-finch-f1d7-70f08909.pages.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.253.144:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.42.247:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.149.45:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.168.174:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.129.243:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.148.181:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.218.88:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 8.39.125.128:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.236.4:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.140.2:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.132.141:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.189:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.83.210:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 172.67.251.218:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.57.159:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.187.40:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.154.117:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.132.67:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.168.208:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 141.101.113.161:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.58.131:443 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.19:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.151.30:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.41.54:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.148.178:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.214.159:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 172.64.154.45:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.46.217:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 172.64.151.235:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.214.202:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.127.110:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.32.56:8443 [VLESS]
       - سرویس رایگان نوا @irnova 104.18.0.0:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]
   - name: 🔮 负载均衡
     type: load-balance
     strategy: consistent-hashing
@@ -138,24 +138,24 @@ proxy-groups:
     interval: 180
     proxies:
       - سرویس رایگان نوا @irnova lunar-finch-f1d7-70f08909.pages.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.253.144:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.42.247:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.149.45:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.168.174:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.129.243:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.148.181:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.218.88:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 8.39.125.128:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.236.4:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.140.2:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.132.141:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.189:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.83.210:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 172.67.251.218:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.57.159:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.187.40:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.154.117:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.132.67:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.168.208:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 141.101.113.161:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.58.131:443 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.19:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.151.30:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.41.54:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.148.178:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.214.159:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 172.64.154.45:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.46.217:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 172.64.151.235:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.214.202:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.127.110:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.32.56:8443 [VLESS]
       - سرویس رایگان نوا @irnova 104.18.0.0:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -182,24 +182,24 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - سرویس رایگان نوا @irnova lunar-finch-f1d7-70f08909.pages.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.253.144:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.42.247:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.149.45:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.168.174:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.129.243:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.148.181:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.218.88:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 8.39.125.128:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.236.4:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.140.2:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.132.141:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.189:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.83.210:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 172.67.251.218:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.57.159:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.187.40:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.154.117:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.132.67:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.168.208:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 141.101.113.161:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.58.131:443 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.19:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.151.30:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.41.54:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.148.178:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.214.159:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 172.64.154.45:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.46.217:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 172.64.151.235:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.214.202:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.127.110:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.32.56:8443 [VLESS]
       - سرویس رایگان نوا @irnova 104.18.0.0:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]
   - name: ☁️ CloudFlareCDN
     type: select
     proxies:
@@ -212,24 +212,24 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - سرویس رایگان نوا @irnova lunar-finch-f1d7-70f08909.pages.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.253.144:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.42.247:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.149.45:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.168.174:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.129.243:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.148.181:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.218.88:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 8.39.125.128:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.236.4:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.140.2:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.132.141:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.189:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.83.210:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 172.67.251.218:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.57.159:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.187.40:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.154.117:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.132.67:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.168.208:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 141.101.113.161:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.58.131:443 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.19:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.151.30:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.41.54:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.148.178:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.214.159:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 172.64.154.45:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.46.217:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 172.64.151.235:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.214.202:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.127.110:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.32.56:8443 [VLESS]
       - سرویس رایگان نوا @irnova 104.18.0.0:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.1.1:2053 [VLESS]
 rules:
 # IRANIAN DIRECT RULES
   - DOMAIN-SUFFIX,ir,DIRECT
@@ -9520,6 +9520,7 @@ rules:
   - DOMAIN,jcxceef9xu.u0op6.adobestats.io,🛑 全球拦截
   - DOMAIN,v1alj9xr0qxh.u0op6.adobestats.io,🛑 全球拦截
   - DOMAIN,dm2rgokrftc.u0op6.adobestats.io,🛑 全球拦截
+  - DOMAIN,8fxx4s39t0.4cbdo.adobestats.io,🛑 全球拦截
   - DOMAIN-SUFFIX,265.com,🚀 节点选择
   - DOMAIN-SUFFIX,2mdn.net,🚀 节点选择
   - DOMAIN-SUFFIX,alt1-mtalk.google.com,🚀 节点选择
@@ -11654,9 +11655,6 @@ rules:
   - IP-CIDR,74.1.17.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,77.73.113.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,77.90.139.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,77.90.148.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,77.90.156.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,77.90.170.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,77.90.190.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,77.216.20.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,78.105.145.0/24,☁️ CloudFlareCDN,no-resolve
@@ -11678,18 +11676,14 @@ rules:
   - IP-CIDR,82.47.124.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,82.152.217.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,82.153.184.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,83.245.13.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,83.245.66.0/23,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,83.245.67.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,84.232.93.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,84.236.184.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,85.133.194.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,85.133.201.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,87.84.129.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,87.85.66.0/23,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,87.85.66.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,87.85.71.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,87.85.131.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,87.85.174.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,87.232.75.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,87.232.80.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,88.216.69.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,89.32.173.0/24,☁️ CloudFlareCDN,no-resolve
@@ -11794,7 +11788,7 @@ rules:
   - IP-CIDR,104.22.198.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.22.202.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.22.204.0/22,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,104.22.210.0/23,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,104.22.208.0/22,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.22.216.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.22.219.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.22.220.0/24,☁️ CloudFlareCDN,no-resolve
@@ -11807,14 +11801,18 @@ rules:
   - IP-CIDR,104.22.238.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.23.96.0/22,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.23.100.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,104.23.102.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.23.104.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.23.107.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,104.23.108.0/23,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,104.23.110.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,104.23.113.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,104.23.108.0/22,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,104.23.112.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.23.114.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,104.23.116.0/22,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.23.122.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.23.124.0/22,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,104.23.128.0/22,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,104.23.132.0/23,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,104.23.140.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.23.160.0/20,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.23.176.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.23.178.0/24,☁️ CloudFlareCDN,no-resolve
@@ -11844,6 +11842,7 @@ rules:
   - IP-CIDR,104.29.124.0/22,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.29.128.0/18,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.29.192.0/20,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,104.29.224.0/19,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.30.0.0/19,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.30.32.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.30.128.0/23,☁️ CloudFlareCDN,no-resolve
@@ -11911,15 +11910,14 @@ rules:
   - IP-CIDR,141.101.104.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,141.101.109.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,141.101.110.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,141.101.112.0/22,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,141.101.120.0/22,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,141.101.112.0/20,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,142.228.46.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,143.14.91.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,143.14.142.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,143.14.224.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,143.14.251.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,144.56.84.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,144.124.208.0/23,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,144.124.211.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,144.124.208.0/22,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,144.124.212.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,144.124.214.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,144.124.223.0/24,☁️ CloudFlareCDN,no-resolve
@@ -11964,7 +11962,6 @@ rules:
   - IP-CIDR,156.246.69.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,156.246.70.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,157.96.22.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,158.94.212.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,159.53.1.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,159.242.242.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,161.115.162.0/24,☁️ CloudFlareCDN,no-resolve
@@ -11981,7 +11978,6 @@ rules:
   - IP-CIDR,162.158.29.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,162.158.30.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,162.158.32.0/23,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,162.158.35.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,162.158.36.0/22,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,162.158.40.0/22,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,162.158.44.0/24,☁️ CloudFlareCDN,no-resolve
@@ -12072,6 +12068,7 @@ rules:
   - IP-CIDR,167.74.130.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,167.74.142.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,167.148.84.0/23,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,167.182.119.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,168.151.31.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,168.183.3.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,168.222.46.0/24,☁️ CloudFlareCDN,no-resolve
@@ -12154,7 +12151,7 @@ rules:
   - IP-CIDR,172.68.114.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.68.117.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.68.118.0/23,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,172.68.123.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,172.68.122.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.68.126.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.68.129.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.68.130.0/24,☁️ CloudFlareCDN,no-resolve
@@ -12219,12 +12216,10 @@ rules:
   - IP-CIDR,172.69.72.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.69.74.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.69.79.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,172.69.80.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.69.82.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.69.86.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.69.88.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.69.90.0/23,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,172.69.93.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.69.94.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.69.96.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.69.99.0/24,☁️ CloudFlareCDN,no-resolve
@@ -12282,7 +12277,6 @@ rules:
   - IP-CIDR,172.69.245.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.69.246.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.69.248.0/22,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,172.69.253.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.70.32.0/20,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.70.48.0/21,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.70.56.0/24,☁️ CloudFlareCDN,no-resolve
@@ -12316,7 +12310,7 @@ rules:
   - IP-CIDR,172.70.196.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.70.199.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.70.201.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,172.70.202.0/23,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,172.70.203.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.70.204.0/22,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.70.208.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.70.212.0/22,☁️ CloudFlareCDN,no-resolve
@@ -12331,7 +12325,8 @@ rules:
   - IP-CIDR,172.71.3.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.71.4.0/22,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.71.8.0/22,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,172.71.17.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,172.71.15.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,172.71.16.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.71.20.0/22,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.71.24.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.71.26.0/23,☁️ CloudFlareCDN,no-resolve
@@ -12350,9 +12345,7 @@ rules:
   - IP-CIDR,172.71.114.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.71.116.0/22,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.71.120.0/21,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,172.71.129.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,172.71.130.0/23,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,172.71.132.0/22,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,172.71.128.0/21,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.71.140.0/22,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.71.144.0/20,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.71.160.0/24,☁️ CloudFlareCDN,no-resolve
@@ -12420,6 +12413,7 @@ rules:
   - IP-CIDR,185.229.206.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,185.245.203.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,185.245.253.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,186.241.191.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,187.32.204.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,188.42.98.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,188.95.12.0/24,☁️ CloudFlareCDN,no-resolve
@@ -12461,7 +12455,7 @@ rules:
   - IP-CIDR,194.77.210.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,194.77.212.0/22,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,194.77.235.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,195.21.128.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,194.120.121.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,195.21.148.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,195.66.29.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,195.85.194.0/24,☁️ CloudFlareCDN,no-resolve
@@ -12498,6 +12492,7 @@ rules:
   - IP-CIDR,200.69.28.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,200.102.177.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,200.218.32.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,201.4.29.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,202.27.69.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,202.49.114.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,202.58.111.0/24,☁️ CloudFlareCDN,no-resolve
@@ -12520,7 +12515,6 @@ rules:
   - IP-CIDR,206.15.54.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,206.15.56.0/21,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,206.206.104.0/23,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,207.57.150.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,207.89.22.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,207.207.209.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,207.241.180.0/24,☁️ CloudFlareCDN,no-resolve
